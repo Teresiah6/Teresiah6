@@ -1,5 +1,11 @@
 ### Hi there 👋
+🌱I am working on Java, Kotlin and C#
+👯I'm looking to collaborate on any android and game development related projects
+💬 Ask me anything about tech 
+📫 How to reach me: wangariteresiah6@gmail.com
+⚡ Fun fact: I am always up for a challenge
 
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Teresiah6&theme=tokyonight)
 <!--
 **Teresiah6/Teresiah6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
