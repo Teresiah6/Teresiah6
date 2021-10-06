@@ -8,3 +8,5 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Teresiah6&hide=html&layout=compact&theme=dark"/>  
 <img src =https://github-readme-stats.vercel.app/api/top-langs/?username=Teresiah6&theme=tokyonight/>
+</p>
+
